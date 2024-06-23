@@ -1,6 +1,6 @@
-### Freelance Front-End Developer
+### Front-End Developer
 
-Developer with over 4 years of experience.
+With over 6 years of experience.
 
 I have an expertize in native technologies: HTML, CSS, JS.
 
